@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TimerTutorial.iml" filepath="$PROJECT_DIR$/TimerTutorial.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimerAppAndroidTutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/TimerAppAndroidTutorial.iml" group="TimerAppAndroidTutorial" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="TimerAppAndroidTutorial/app" />
     </modules>
   </component>
 </project>
